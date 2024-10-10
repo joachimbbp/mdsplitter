@@ -1,5 +1,6 @@
 import os
-main_note_path = "/Users/joachimpfefferkorn/repos/mdsplitter/test_media/test_note.md"
+import sys
+main_note_path = sys.argv[1]
 
 def dict_from_notes(main_text):
     notes = {}
