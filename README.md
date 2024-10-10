@@ -1,0 +1,1 @@
+Study assist for writing quick notes in `md`. Written for obsidian but could be used for any `md` files.
